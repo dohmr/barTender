@@ -1,6 +1,6 @@
 {
   "name": "bartender",
-  "homepage": "http://dohmr.github.io/barTender",
+  "homepage": "http://dohmr.github.io/barTender/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
